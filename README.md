@@ -12,7 +12,7 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 - Can be controlled using either mouse / touchscreen or by using the keyboard pressing the corresponding keys.
 
-- Decimal point can be inserted using both comma or dot key on the keyboard.
+- Decimal point can be inserted using both comma or dot key on the keyboard.Updated by Rakshitha
 
 - Backspace deletes last digit.
 
