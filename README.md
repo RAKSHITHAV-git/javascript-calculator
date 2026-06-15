@@ -28,6 +28,6 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 ## Contributions
 
-- Feel free to suggest any improvements by creating an issue.
+- Feel free to suggest any improvements by creating an issue."updated rak"
 
 - You can also work on an already open issue and pull request when finished, so I can review the changes and eventually merge them to the base branch.
