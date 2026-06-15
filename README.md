@@ -29,7 +29,7 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 ## Contributions
 
 <<<<<<< HEAD
-- Feel free to suggest any improvements by creating an issue."updated rak"
+- Feel free to suggest any improvements by creating an issue."updated rak""oi oi"
 =======
 - Feel free to suggest any improvements by creating an issue."hello  from rak"
 >>>>>>> f4d85381809a101ea0008a77b08c20f78b25bf11
